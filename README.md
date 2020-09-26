@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 ![](https://github-readme-stats.vercel.app/api?username=utsav00&count_private=true&show_icons=true&hide=stars,issues)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=utsav00&hide=html&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=utsav00&hide=html&count_private=true)  
 <sup>Note: The languages here do not reflect my expertise.</sup>
 
 ### >Let's connect 
