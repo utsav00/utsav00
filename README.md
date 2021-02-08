@@ -6,8 +6,7 @@ I'm Utsav, a developer and a reader.
 
 - Currently pursuing Computer Engineering (final year) at [DDU](https://ddu.ac.in/)
 - Core Team Member at [DSC-DDU](http://www.dscddu.com/)
-- Working on my DSA skills through various competitive coding platforms
-- Reading [Modern Compiler Implementation in C](https://www.cs.princeton.edu/~appel/modern/c/) by Andrew Appel
+- Learning about functional programming with the help of Haskell.
 
 <!--
 **utsav00/utsav00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
