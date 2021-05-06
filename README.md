@@ -1,12 +1,13 @@
 # Greetings, Earthlings! 🖖  
 
-## >whoami
+## > whoami
 
 I'm Utsav, a developer and a reader.  
 
 - Currently pursuing Computer Engineering (final year) at [DDU](https://ddu.ac.in/)
+- Software Craftsperson at Incubyte
 - Core Team Member at [DSC-DDU](http://www.dscddu.com/)
-- Learning about functional programming with the help of Haskell.
+- Currently learning functional programming with Haskell
 
 <!--
 **utsav00/utsav00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,14 +24,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### >Stats
+### > Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=utsav00&count_private=true&show_icons=true&hide=stars)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=utsav00&hide=html&count_private=true)  
-<sup>Note: The languages here do not reflect my expertise.</sup>
-
-### >Let's connect 
+### > Let's connect 
 
 [<img alt="Hardik Bagada | LinkedIN" width="24px" src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/icons8-linkedin.svg"/>](https://www.linkedin.com/in/utsavparmar) 
 [<img  alt="Hardik's Twitter" width="24px" src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/icons8-twitter.svg" />
