@@ -5,9 +5,10 @@
 I'm Utsav, a developer and a reader.  
 
 - 🔭 Software Craftsperson at Incubyte
-- 🌱 Learning Haskell
-- 💬 Ask me about Python and Type Theory
+- 🚀 Languages I (kinda) know: Python, C, Java, TS and a few others
+- 🌱 Languages I'm learning: Haskell, Ruby
 - 😄 Pronouns: he/him
+- 🏃🏽 I read and I hop distros; currently using Fedora 35 (may or may not be the case when you read this)
 
 <!--
 **utsav00/utsav00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
