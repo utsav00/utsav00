@@ -9,7 +9,7 @@ I'm Utsav, a developer and a reader.
 - 🌱 Languages I'm learning: Haskell
 - 😄 Pronouns: he/him
 - 🏃🏽 I read and I hop distros; currently using Fedora 39 (may or may not be the case when you read this)
-
+- ✍️ I sometimes write at [link](https://blog.incubyte.co/authors/utsav-parmar/)
 <!--
 **utsav00/utsav00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
